@@ -1,7 +1,7 @@
 # Non-equiatomic-Mg-MEA-discovery-codes-and-dataset
 This repository accompanies the article:   **Multi-objective optimization and machine learning assisted design and synthesis of magnesium based novel non-equiatomic medium entropy alloy**   **Authors:** Priyabrata Das, Pulak Mohan Pandey   DOI: 10.1016/j.jallcom.2024.174066
 
----
+--
 
 ## Contents
 - **code_for_quaternary_MEA**: Combinatorial quaternary MEA design (design space generation and property calculation).  
@@ -10,7 +10,7 @@ This repository accompanies the article:   **Multi-objective optimization and ma
 -  **co**: Constraints.
 - **phase_prediction**: Phase prediction of designed alloys.  
 
----
+--
 
 ## How to use
 1. Place the required input files (`Element properties.xlsx`, `Mixing enthalpy.xlsx`) in the working directory.  
