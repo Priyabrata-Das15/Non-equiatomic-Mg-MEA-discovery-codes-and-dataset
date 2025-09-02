@@ -4,9 +4,11 @@ This repository accompanies the article:   **Multi-objective optimization and ma
 ---
 
 ## Contents
-- **MATLAB file 1**: Combinatorial quaternary MEA design (design space generation and property calculation).  
-- **MATLAB file 2**: Multi-objective genetic algorithm for composition optimization.  
-- **Jupyter Notebook**: Phase prediction of designed alloys.  
+- **code_for_quaternary_MEA**: Combinatorial quaternary MEA design (design space generation and property calculation).  
+- **Multi_obj_GA_for_composition_optimization**: Multi-objective genetic algorithm for composition optimization.
+- **input_p**: Objective functions.
+-  **co**: Constraints.
+- **phase_prediction**: Phase prediction of designed alloys.  
 
 ---
 
